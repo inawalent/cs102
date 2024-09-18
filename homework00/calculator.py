@@ -1,5 +1,6 @@
 import math
 
+
 def calc_one(num, op):
     match op:
         case "sin":
